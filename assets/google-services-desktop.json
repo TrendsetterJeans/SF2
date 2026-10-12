@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1081323847439",
+    "firebase_url": "https://api-project-1081323847439.firebaseio.com",
+    "project_id": "api-project-1081323847439",
+    "storage_bucket": "api-project-1081323847439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081323847439:android:99b491078643d4fd",
+        "android_client_info": {
+          "package_name": "com.nekki.shadowfight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081323847439-gdodepa4ha67ov0m2gui8lhisom3vm0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nekki.shadowfight",
+            "certificate_hash": "5d40d39626be112f1c5295a44b664e2de179f6bc"
+          }
+        },
+        {
+          "client_id": "1081323847439-36jlvg0cjvc8e6j2cj5d4u188vg5hchi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zZziT5UHFJWG8zcUKvMM9-nrR7C6DL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081323847439-2ealc6auqbq85vti22nvpiac6unui2le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081323847439-codno9ph8cfquqg6a3tljhiofneo330a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nekki.shadowfight2china"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081323847439:android:73cf68a864a7d0775b887a",
+        "android_client_info": {
+          "package_name": "com.nekki.shadowfight2.paid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081323847439-0atvj806n150qit5mhgnhcu20n2oaeqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nekki.shadowfight2.paid",
+            "certificate_hash": "d61109d768edaa3ad2efa9ef357bd1ae33d5f0ab"
+          }
+        },
+        {
+          "client_id": "1081323847439-36jlvg0cjvc8e6j2cj5d4u188vg5hchi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zZziT5UHFJWG8zcUKvMM9-nrR7C6DL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081323847439-2ealc6auqbq85vti22nvpiac6unui2le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081323847439-codno9ph8cfquqg6a3tljhiofneo330a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nekki.shadowfight2china"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
